@@ -13,7 +13,7 @@ The project utilized various machine learning models to analyze factors such as 
 
 ## Dataset
 We used a dataset sourced from **Kaggle**, which originally comes from an IEEE transportation research paper. The dataset contains:
-- 28,000 rows and 23 columns
+- 600,000 rows and 23 columns
 - Data from **JFK Airport** between November 2019 and December 2020
 - Features including weather (temperature, humidity, wind speed), flight details (departure, scheduled times), and flight delay (target variable)
 
